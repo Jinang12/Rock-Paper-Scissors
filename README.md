@@ -1,4 +1,4 @@
-#* RockPaperScissors Game
+# Rock-Paper-Scissors Game
 
 This is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The game allows you to play against a computer bot and keeps track of the score. The first player to reach 3 points wins the game.
 Features
